@@ -1,0 +1,19 @@
+{
+  "name": "cliente",
+  "version": "1.0.0",
+  "description": "Cliente gRPC",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gRPC"
+  ],
+  "author": "Julian, Arcángel, Diego, Andres, Alejandro",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.3",
+    "google-protobuf": "^3.11.4",
+    "grpc": "^1.24.2"
+  }
+}
